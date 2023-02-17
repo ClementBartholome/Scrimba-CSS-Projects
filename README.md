@@ -1,2 +1,2 @@
 # Scrimba-CSS-Projects
-Projets from "CSS Essential concepts" from Scrimba's Frontend Career Path
+Projects from "CSS Essential concepts" course from Scrimba's Frontend Career Path

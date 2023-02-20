@@ -41,3 +41,16 @@ Completed these projects from the Scrimba's Essential CSS Concepts course (modul
 - Semantic HTML 
 - CSS (flexbox)
 - JavaScript DOM manipulation
+
+## 3- Coworking Space Site 
+
+### Screenshot 
+
+![Screen1](CoworkingSpaceSite/images/screen.png)
+
+### What I learned / practiced
+
+- margin:auto on flex children
+- position:absolute & relative
+- align self
+- position:fixed

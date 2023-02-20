@@ -26,6 +26,10 @@ Completed these projects from the Scrimba's Essential CSS Concepts course (modul
 ![Screen1](Oldagram/images/screen1.png)
 ![Screen2](Oldagram/images/screen2.png)
 
+### Link
+
+[Live Solution](https://oldagram-scrimba-clement-bartholome.netlify.app/)
+
 ### Goals 
 
 - Create a clone of Instagram from a Figma design

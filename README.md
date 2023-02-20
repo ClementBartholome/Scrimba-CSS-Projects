@@ -6,10 +6,6 @@ Completed these projects from the Scrimba's Essential CSS Concepts course (modul
 
 ## 1- NFT Site
 
-### Screenshot 
-
-[](NFT-Site/images/screen.png)
-
 ### What I learned / practiced 
 
 - Semantic HTML

@@ -4,7 +4,7 @@ Completed these projects from the Scrimba's Essential CSS Concepts course (modul
 
 # Projects
 
-## 1- NFT Site App
+## 1- NFT Site
 
 ### Screenshot 
 

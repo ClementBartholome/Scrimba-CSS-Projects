@@ -74,12 +74,12 @@ for (let i = 0; i < likesBtn.length; i++) {
     likesBtn[i].addEventListener('click', function(){
         if (posts[i].liked === false) {
             posts[i].likes ++;
-            likesEl[i].innerHTML = posts[i].likes + " " + "likes";
+            likesEl[i].textContent = posts[i].likes + " " + "likes";
             likesBtn[i].style.filter = "invert(44%) sepia(94%) saturate(7473%) hue-rotate(353deg) brightness(91%) contrast(127%)";
             posts[i].liked = true   
         } else if (posts[i].liked === true) {
             posts[i].likes --;
-            likesEl[i].innerHTML = posts[i].likes + " " + "likes";
+            likesEl[i].textContent = posts[i].likes + " " + "likes";
             likesBtn[i].style.filter = "invert(0%) sepia(6%) saturate(7476%) hue-rotate(328deg) brightness(103%) contrast(106%)";
             posts[i].liked = false;
       }

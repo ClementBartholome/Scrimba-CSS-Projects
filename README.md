@@ -19,7 +19,7 @@ Completed these projects from the Scrimba's Essential CSS Concepts course (modul
 - Inline block
 - Multiple blocks on one element
 
-## 2- Oldagram 
+## 2- Oldagram (Solo Project)
 
 ### Screenshot 
 

@@ -23,7 +23,6 @@ Completed these projects from the Scrimba's Essential CSS Concepts course (modul
 
 ### Screenshot 
 
-![Screen1](Oldagram/images/screen1.png)
 ![Screen2](Oldagram/images/screen2.png)
 
 ### Link
